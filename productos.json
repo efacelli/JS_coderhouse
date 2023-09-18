@@ -2,7 +2,7 @@
     {
         "id": "abrigo-01",
         "titulo": "Abrigo 01",
-        "imagen": "/img/hoodie_negro.webp",
+        "imagen": "./img/hoodie_negro.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -12,7 +12,7 @@
     {
         "id": "abrigo-02",
         "titulo": "Abrigo 02",
-        "imagen": "/img/hoodie_gris.webp",
+        "imagen": "./img/hoodie_gris.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -22,7 +22,7 @@
     {
         "id": "abrigo-03",
         "titulo": "Abrigo 03",
-        "imagen": "/img/campera_verde.webp",
+        "imagen": "./img/campera_verde.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -32,7 +32,7 @@
     {
         "id": "abrigo-04",
         "titulo": "Abrigo 04",
-        "imagen": "/img/camperon_negro.webp",
+        "imagen": "./img/camperon_negro.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -42,7 +42,7 @@
     {
         "id": "abrigo-05",
         "titulo": "Abrigo 05",
-        "imagen": "/img/campera_azul.webp",
+        "imagen": "./img/campera_azul.webp",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -52,7 +52,7 @@
     {
         "id": "camiseta-01",
         "titulo": "Camiseta 01",
-        "imagen": "/img/camiseta_bluelock.webp",
+        "imagen": "./img/camiseta_bluelock.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -62,7 +62,7 @@
     {
         "id": "camiseta-02",
         "titulo": "Camiseta 02",
-        "imagen": "/img/camiseta_negra_arg.webp",
+        "imagen": "./img/camiseta_negra_arg.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -72,7 +72,7 @@
     {
         "id": "camiseta-03",
         "titulo": "Camiseta 03",
-        "imagen": "/img/camiseta_julian.webp",
+        "imagen": "./img/camiseta_julian.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -82,7 +82,7 @@
     {
         "id": "camiseta-04",
         "titulo": "Camiseta 04",
-        "imagen": "/img/camiseta_messi.webp",
+        "imagen": "./img/camiseta_messi.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -92,7 +92,7 @@
     {
         "id": "camiseta-05",
         "titulo": "Camiseta 05",
-        "imagen": "/img/camiseta_dibu.webp",
+        "imagen": "./img/camiseta_dibu.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -102,7 +102,7 @@
     {
         "id": "camiseta-06",
         "titulo": "Camiseta 06",
-        "imagen": "/img/camiseta_river.webp",
+        "imagen": "./img/camiseta_river.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -112,7 +112,7 @@
     {
         "id": "camiseta-07",
         "titulo": "Camiseta 07",
-        "imagen": "/img/camiseta_roja.webp",
+        "imagen": "./img/camiseta_roja.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -122,7 +122,7 @@
     {
         "id": "camiseta-08",
         "titulo": "Camiseta 08",
-        "imagen": "/img/camiseta_nuggets.webp",
+        "imagen": "./img/camiseta_nuggets.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -132,7 +132,7 @@
     {
         "id": "pantalon-01",
         "titulo": "Pantalón 01",
-        "imagen": "/img/pantalon_1.webp",
+        "imagen": "./img/pantalon_1.webp",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -142,7 +142,7 @@
     {
         "id": "pantalon-02",
         "titulo": "Pantalón 02",
-        "imagen": "/img/pantalon_2.webp",
+        "imagen": "./img/pantalon_2.webp",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -152,7 +152,7 @@
     {
         "id": "pantalon-03",
         "titulo": "Pantalón 03",
-        "imagen": "/img/pantalon_3.webp",
+        "imagen": "./img/pantalon_3.webp",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -162,7 +162,7 @@
     {
         "id": "pantalon-04",
         "titulo": "Pantalón 04",
-        "imagen": "/img/pantalon_4.webp",
+        "imagen": "./img/pantalon_4.webp",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -172,7 +172,7 @@
     {
         "id": "pantalon-05",
         "titulo": "Pantalón 05",
-        "imagen": "/img/pantalon_5.webp",
+        "imagen": "./img/pantalon_5.webp",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
